@@ -1,0 +1,72 @@
+#head{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+#post{
+    padding: 1%;
+}
+a{
+    color: red;
+
+}
+footer{
+    text-align: left;
+    padding: 1%;
+    background-color: black;
+    color: white;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+.button{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    background-color: orange;
+}
+
+#form{
+    border: 3px solid black;
+    margin: auto;
+    width: 60%;
+    padding: 1%;
+}
+
+.form{
+    font-size: 20px;
+    
+}
+#signinbutton{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    background-color: orange;
+}
+#registerbutton{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    background-color: orange;
+}
+#userbutton{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    background-color: green;
+}
+#logoutbutton{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    background-color: green;
+}
+#fundbutton{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    background-color: red;
+}
+

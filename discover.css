@@ -1,0 +1,23 @@
+footer{
+    text-align: left;
+    padding: 1%;
+    background-color: black;
+    color: white;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.filter{
+    width: 30%;
+    text-align: right;
+}
+
+#dishead{
+    left: 0;
+    background-color: orange;
+    color: green;
+    width: 100%;
+    text-align: center;
+}
